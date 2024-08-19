@@ -1,0 +1,568 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Comfortaa", sans-serif;
+}
+
+#banner nav{
+    position: sticky;
+    bottom: 580px;
+}
+
+
+
+#navtypes{
+gap: 35px;   
+
+margin-right: 10px;
+}
+
+#navtypes h6:hover{
+    color: orange;
+}
+
+#banner nav button{
+    height: 50px;
+    width: 100px;
+margin-top: -15px;
+background-color: transparent;
+}
+
+#banner nav button:hover{
+  
+    color: white;
+    background-color: black;
+}
+
+#space0{
+    letter-spacing:1px ;
+}
+
+#space{
+    font-weight: 100px;
+    letter-spacing: 3px;
+    line-height: 25px;
+}
+
+#icons{
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+
+}
+
+#icons:hover{
+    background-color: rgb(43, 43, 43);
+    color: white;
+}
+
+#iconimg{
+    margin-left: 220px;
+margin-top: -80px;
+height:500px;
+width: 400px;
+
+}
+
+#middle{
+    background-color:#eae0d7;
+    height: 125px;
+    width: 300px;
+    position: absolute;
+    left: 720px;
+    top: 950px;
+}
+
+#our{
+    font-size: 13px;
+    padding-top: 25px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+#middle button{
+    
+    font-size: 8px;
+    padding: 4px;
+    background-color:white;
+    margin-left: 188px;
+    border-top: 0cap;
+    border-left: 0cap;
+    border-bottom: 0cap;
+    border-right: 0cap;
+}
+
+
+
+
+
+#save1{
+   
+    border-radius: 3px;
+    height: 30px;
+    width: 60px;
+    background-color: red;
+    color: white;
+    border-top: 0cap;
+    border-left: 0cap;
+    border-bottom: 0cap;
+    border-right: 0cap;
+    position: absolute;
+ 
+ top: 2980px;
+ left: 245px;
+ opacity: 0;
+ display: flex;
+ }
+
+ 
+ 
+#save1 i{
+    padding-top: 13px;
+    
+ 
+     
+ }
+ #save1 h6{
+   font-weight: bolder;
+   font-size: 13px;
+   padding-top: 8px;
+   padding-left: 3px;
+ }
+
+ .col-4:hover{
+    #save1{
+   
+        border-radius: 3px;
+        height: 30px;
+        width: 60px;
+        background-color: red;
+        color: white;
+        border-top: 0cap;
+        border-left: 0cap;
+        border-bottom: 0cap;
+        border-right: 0cap;
+        position: absolute;
+     
+     top: 2980px;
+     left: 245px;
+     opacity: 1;
+     display: flex;
+     }
+
+ }
+
+ 
+
+#save2{
+   
+    border-radius: 3px;
+    height: 30px;
+    width: 60px;
+    background-color: red;
+    color: white;
+    border-top: 0cap;
+    border-left: 0cap;
+    border-bottom: 0cap;
+    border-right: 0cap;
+    position: absolute;
+ 
+ top: 2980px;
+ left: 605px;
+ opacity: 0;
+ display: flex;
+ }
+
+ 
+ 
+#save2 i{
+    padding-top: 13px;
+    
+ 
+     
+ }
+ #save2 h6{
+   font-weight: bolder;
+   font-size: 13px;
+   padding-top: 8px;
+   padding-left: 3px;
+ }
+
+ .col-4:hover{
+    #save2{
+   
+        border-radius: 3px;
+        height: 30px;
+        width: 60px;
+        background-color: red;
+        color: white;
+        border-top: 0cap;
+        border-left: 0cap;
+        border-bottom: 0cap;
+        border-right: 0cap;
+        position: absolute;
+     
+     top: 2980px;
+     left: 605px;
+     opacity: 1;
+     display: flex;
+     }
+
+ }
+
+ 
+
+#save3{
+   
+    border-radius: 3px;
+    height: 30px;
+    width: 60px;
+    background-color: red;
+    color: white;
+    border-top: 0cap;
+    border-left: 0cap;
+    border-bottom: 0cap;
+    border-right: 0cap;
+    position: absolute;
+ 
+ top: 2980px;
+ left: 965px;
+ opacity: 0;
+ display: flex;
+ }
+
+ 
+ 
+#save3 i{
+    padding-top: 13px;
+    
+ 
+     
+ }
+ #save3 h6{
+   font-weight: bolder;
+   font-size: 13px;
+   padding-top: 8px;
+   padding-left: 3px;
+ }
+
+ .col-4:hover{
+    #save3{
+   
+        border-radius: 3px;
+        height: 30px;
+        width: 60px;
+        background-color: red;
+        color: white;
+        border-top: 0cap;
+        border-left: 0cap;
+        border-bottom: 0cap;
+        border-right: 0cap;
+        position: absolute;
+     
+     top: 2980px;
+     left: 965px;
+     opacity: 1;
+     display: flex;
+     }
+
+ }
+
+ 
+#save4{
+   
+    border-radius: 3px;
+    height: 30px;
+    width: 60px;
+    background-color: red;
+    color: white;
+    border-top: 0cap;
+    border-left: 0cap;
+    border-bottom: 0cap;
+    border-right: 0cap;
+    position: absolute;
+ 
+ top: 3340px;
+ left: 240px;
+ opacity: 0;
+ display: flex;
+ }
+
+ 
+ 
+#save4 i{
+    padding-top: 13px;
+    
+ 
+     
+ }
+ #save4 h6{
+   font-weight: bolder;
+   font-size: 13px;
+   padding-top: 8px;
+   padding-left: 3px;
+ }
+
+ .col-4:hover{
+    #save4{
+   
+        border-radius: 3px;
+        height: 30px;
+        width: 60px;
+        background-color: red;
+        color: white;
+        border-top: 0cap;
+        border-left: 0cap;
+        border-bottom: 0cap;
+        border-right: 0cap;
+        position: absolute;
+     
+     top: 3340px;
+     left: 240px;
+     opacity: 1;
+     display: flex;
+     }
+
+ }
+
+ 
+#save5{
+   
+    border-radius: 3px;
+    height: 30px;
+    width: 60px;
+    background-color: red;
+    color: white;
+    border-top: 0cap;
+    border-left: 0cap;
+    border-bottom: 0cap;
+    border-right: 0cap;
+    position: absolute;
+ 
+ top: 3340px;
+ left: 605px;
+ opacity: 0;
+ display: flex;
+ }
+
+ 
+ 
+#save5 i{
+    padding-top: 13px;
+    
+ 
+     
+ }
+ #save5 h6{
+   font-weight: bolder;
+   font-size: 13px;
+   padding-top: 8px;
+   padding-left: 3px;
+ }
+
+ .col-4:hover{
+    #save5{
+   
+        border-radius: 3px;
+        height: 30px;
+        width: 60px;
+        background-color: red;
+        color: white;
+        border-top: 0cap;
+        border-left: 0cap;
+        border-bottom: 0cap;
+        border-right: 0cap;
+        position: absolute;
+     
+     top: 3340px;
+     left: 605px;
+     opacity: 1;
+     display: flex;
+     }
+
+ }
+
+ 
+#save6{
+   
+    border-radius: 3px;
+    height: 30px;
+    width: 60px;
+    background-color: red;
+    color: white;
+    border-top: 0cap;
+    border-left: 0cap;
+    border-bottom: 0cap;
+    border-right: 0cap;
+    position: absolute;
+ 
+ top: 3340px;
+ left: 965px;
+ opacity: 0;
+ display: flex;
+ }
+
+ 
+ 
+#save6 i{
+    padding-top: 13px;
+    
+ 
+     
+ }
+ #save6 h6{
+   font-weight: bolder;
+   font-size: 13px;
+   padding-top: 8px;
+   padding-left: 3px;
+ }
+
+ .col-4:hover{
+    #save6{
+   
+        border-radius: 3px;
+        height: 30px;
+        width: 60px;
+        background-color: red;
+        color: white;
+        border-top: 0cap;
+        border-left: 0cap;
+        border-bottom: 0cap;
+        border-right: 0cap;
+        position: absolute;
+     
+     top: 3340px;
+     left: 965px;
+     opacity: 1;
+     display: flex;
+     }
+
+ }
+
+ 
+#save{
+   
+    border-radius: 3px;
+    height: 30px;
+    width: 60px;
+    background-color: red;
+    color: white;
+    border-top: 0cap;
+    border-left: 0cap;
+    border-bottom: 0cap;
+    border-right: 0cap;
+    position: absolute;
+ 
+ top: 3340px;
+ left: 965px;
+ opacity: 0;
+ display: flex;
+ }
+
+ 
+ 
+#save11 i{
+    padding-top: 13px;
+    
+ 
+     
+ }
+ #save11 h6{
+   font-weight: bolder;
+   font-size: 13px;
+   padding-top: 8px;
+   padding-left: 3px;
+ }
+
+ .col-4:hover{
+    #save11{
+   
+        border-radius: 3px;
+        height: 30px;
+        width: 60px;
+        background-color: red;
+        color: white;
+        border-top: 0cap;
+        border-left: 0cap;
+        border-bottom: 0cap;
+        border-right: 0cap;
+        position: absolute;
+     
+     top: 3340px;
+     left: 965px;
+     opacity: 1;
+     display: flex;
+     }
+
+ }
+
+ 
+ .col-3:hover{
+    #save11{
+   
+        border-radius: 3px;
+        height: 30px;
+        width: 60px;
+        background-color: red;
+        color: white;
+        border-top: 0cap;
+        border-left: 0cap;
+        border-bottom: 0cap;
+        border-right: 0cap;
+        position: absolute;
+     
+     top: 4610px;
+     left: 235px;
+     opacity: 1;
+     display: flex;
+     }
+
+ }
+
+ #row1st .col-3:hover{
+    
+ }
+
+ #signup{
+    margin-left: 130px;
+    height: 60px;
+    width: 100px;
+  border-top: 0cap;
+  border-left: 0cap;
+  border-right: 0cap;
+  border-bottom: 0cap;
+    background:linear-gradient(180deg,rgba(255,255,255,0) 64%,#f8cdaa 30%);
+   
+ }
+
+ #clickhere:hover{
+    background: linear-gradient(180deg,white 64%,#f8cdaa 60%);
+    
+ }
+
+ #readmore{
+    height: 50px;
+    width: 150px;
+    border-style: solid;
+    border-color: #eae0d7;
+    background-color: transparent;
+    color: #eae0d7;
+    margin-top: 15px;
+ }
+
+ #readmore:hover{
+    background-color: #eae0d7;
+    color: black;
+    transition: 0.7s;
+  
+ }
+
+
+
+
+
+ 
+ 
+
